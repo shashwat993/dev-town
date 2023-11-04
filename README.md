@@ -37,6 +37,7 @@ Some Screenshot:
 
 
 <h3> <b>Sort by Ratings</b></h3>
+
 ![image](https://github.com/shashwat993/dev-town/assets/108952343/d21817b6-95ab-41ed-99e8-106f4b5533cf)
 
 
