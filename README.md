@@ -1,5 +1,5 @@
 # dev-town
-<h1>Created a responsive and interactive web page that displays a list of products using React for Internship at Dev Town.</h1>
+<h2>Created a responsive and interactive web page that displays a list of products using React for Internship at Dev Town.</h2>
 
 **Important Feachers**
 <ul>
@@ -30,7 +30,8 @@ Some Screenshot:
 
 **Sort by Price**
 
-![image](https://github.com/shashwat993/dev-town/assets/108952343/b265e983-24f2-4920-877e-65ffb02e04ca)
+![image](https://github.com/shashwat993/dev-town/assets/108952343/fa3fcdb4-3179-4213-8909-309c4a5d1ef3)
+
 
 **Sort by Ratings**
 ![image](https://github.com/shashwat993/dev-town/assets/108952343/9e769c55-8473-42cf-9d03-9c4fc710a134)
