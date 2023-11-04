@@ -28,13 +28,17 @@ https://dev-town-project.netlify.app/
 
 Some Screenshot:
 
-**Sort by Price**
+<h3>
+  <b>Sort by Price </b>
+</h3>
 
-![image](https://github.com/shashwat993/dev-town/assets/108952343/fa3fcdb4-3179-4213-8909-309c4a5d1ef3)
+![image](https://github.com/shashwat993/dev-town/assets/108952343/0197aed5-4014-4ef3-a39d-4933f1c439f3)
 
 
-**Sort by Ratings**
-![image](https://github.com/shashwat993/dev-town/assets/108952343/9e769c55-8473-42cf-9d03-9c4fc710a134)
+
+<h3> <b>Sort by Ratings</b></h3>
+![image](https://github.com/shashwat993/dev-town/assets/108952343/d21817b6-95ab-41ed-99e8-106f4b5533cf)
+
 
 
 
